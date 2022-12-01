@@ -16,7 +16,7 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction 
+## 1 Introduction 1
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
@@ -78,16 +78,16 @@ The first decision involved the setup of the different accounts that were used i
 
   **Table 1: Accounts**
   
-| **Account type** | **Account history** | **Role** |
-|---|---|---|
-| Treatment account 1 | Yes | Post treatment words |
-| Treatment account 2 | No | Post treatment words |
-| Control account 1 | Yes | Post control words |
-| Control account 2 | No | Post control words |
-| Check account 1 | No | Check if words appear |
-| Check account 2 | No | Check if words appear |
-| Check account 3 | No | Check if words appear |
-| Check account 4 | No | Check if words appear |
+ **Account type** | **Account history** | **Role** 
+:---|:---:|---:
+ Treatment account 1 | Yes | Post treatment words 
+ Treatment account 2 | No | Post treatment words 
+ Control account 1 | Yes | Post control words 
+ Control account 2 | No | Post control words 
+ Check account 1 | No | Check if words appear 
+ Check account 2 | No | Check if words appear 
+ Check account 3 | No | Check if words appear 
+ Check account 4 | No | Check if words appear 
 
   *Table 1 - Description of accounts used for the experiment.*
   
