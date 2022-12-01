@@ -16,10 +16,11 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction 1
+## 1 Introduction 2
 
 <div align="justify"> 
-  The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).  
+  <br/>
+  The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).<br/>
   
   
   However, in a hyper-connected world, boundaries are transcending. Some social media and communication platforms such as WeChat or TikTok have crossed Chinese borders and managed to penetrate global markets. TikTok is China’s first global software player and a massive social network with more than one billion monthly active users (TikTok, 2021). User numbers on Douyin (抖音), the Chinese version of the app, are expected to exceed 800 million by 2025 (Thomala, 2022). The platform enables users to post videos with visual and musical effects for information or entertainment, and to react with likes or comments. According to TikTok’s community guidelines, all users over 13 years of age, regardless of individual characteristics such as gender or ethnicity, have the right to publish and comment freely on TikTok (TikTok, 2022). The company’s huge success can partially be explained by its recommendation algorithm, which proactively tests its content predictions a user might like (Hern, 2022).\n
