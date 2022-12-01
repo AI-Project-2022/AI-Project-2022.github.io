@@ -16,7 +16,7 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction 10
+## 1 Introduction 
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
@@ -73,6 +73,9 @@ The first decision involved the setup of the different accounts that were used i
 </div> 
 
 
+<div align="center">
+**Table 1: Accounts**
+<br/>
 **Account type** | **Account history** | **Role** 
 :---|:---:|---:
 Treatment account 1 | Yes | Post treatment words 
@@ -83,28 +86,32 @@ Check account 1 | No | Check if words appear
 Check account 2 | No | Check if words appear 
 Check account 3 | No | Check if words appear 
 Check account 4 | No | Check if words appear 
-
+<br/>
+*Table 1 - Description of accounts used for the experiment.*
+</div> 
+<br/>
 
   
 
 <div align="justify"> 
 It should be noted that the two accounts that had previous history differ in some minor aspects. While neither had posted videos and had no likes, the account Treatment account 1 had 20 followers and followed 42 other accounts, while the Control account 1 had 91 followers and followed 41 other accounts. Both users reported that they use their accounts frequently but only to watch videos and share them through the app’s in-built function on other messengers and social media platforms. 
-</div>
+  <br/>
+  <br/>
+</div> 
   
 <ins>Word clusters</ins>
-<p align="justify"> 
+<div align="justify"> 
 We decided to test four main word clusters related to the LGBTQ+ community, climate change, the Russian war in Ukraine, and politically sensitive words in China. The first three thematic groups were already tested in the aforementioned German experiment and the fourth cluster was included for this particular experiment. In the remainder of the report, this set of words is referred to as 'treatment words', i.e., terms that could potentially prevent comments from appearing publicly in the comment section of the videos. 
-<p align="justify"> 
+  <br/>
+  <br/>
 Following the original setup of the German experiment, in which words were posted in German, for this experiment – carried out in France – all words were translated into French by a fluent-speaking member of the group. In addition, words were embedded in sentences with neutral language that did not violate TikTok’s community guidelines. The same sentences were used for each word cluster and were adjusted to their content in order to make sense and to be grammatically correct. Table 2 shows the words chosen for each word cluster as well as the sentence in which they were embedded. 
-
+</div> 
  
 
 </b>
-
-<div align="center">  
-  
   **Table 2: Treatment words**
-  
+</b>
+<div align="center">  
 | **Word cluster** | **Treatment word** | **Sentence** |
 |---|---|---|
 | LGBT | LGBT | Je soutiens la communauté LGBT |
@@ -136,10 +143,10 @@ Following the original setup of the German experiment, in which words were poste
 | China | Tiananmen | Nous devons parler de Tiananmen |
 | China | Droits de l’homme | Nous devons parler des droits de l’homme |
 | China | Travail forcé | Nous devons parler de travail forcé    |
-  
+</div> 
   *Table 2 - Description of treatment words.*
   
-</div> 
+
 
 <p align="justify"> 
 In addition, the sentence “J'aime ta vidéo” (I like your video) was used as a control group of words, in order to verify that the comments on each video were not restricted by the owner. This sentence, referred to as ‘control words’ in the remainder of the report, also provides a benchmark to compare the experimental results in relation to the ‘treatment words’.
