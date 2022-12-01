@@ -16,10 +16,11 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction 1
+## 1 Introduction 
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
+  <br/>
   <br/>
 However, in a hyper-connected world, boundaries are transcending. Some social media and communication platforms such as WeChat or TikTok have crossed Chinese borders and managed to penetrate global markets. TikTok is China’s first global software player and a massive social network with more than one billion monthly active users (TikTok, 2021). User numbers on Douyin (抖音), the Chinese version of the app, are expected to exceed 800 million by 2025 (Thomala, 2022). The platform enables users to post videos with visual and musical effects for information or entertainment, and to react with likes or comments. According to TikTok’s community guidelines, all users over 13 years of age, regardless of individual characteristics such as gender or ethnicity, have the right to publish and comment freely on TikTok (TikTok, 2022). The company’s huge success can partially be explained by its recommendation algorithm, which proactively tests its content predictions a user might like (Hern, 2022).
   <br/>
@@ -35,7 +36,6 @@ Building upon these journalistic investigations, the present study sought to fur
   <br/>
 </div> 
 
-  
 <a name="litreview"></a>
 ## 2 Literature review
 
@@ -63,12 +63,14 @@ Recently, a German investigative journalist network discovered that TikTok Germa
 <div align="justify"> 
 We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s <a href="https://www.tiktok.com/community-guidelines?lang=en" target="_top">community guidelines</a>. The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
   <br/>
+  <br/>
+</div> 
   
 <ins>TikTok accounts</ins>
-<p align="justify"> 
+<div align="justify"> 
 The first decision involved the setup of the different accounts that were used in the experiment. We conducted the experiment with eight different accounts, four of them posting word clusters and four of them checking if they appeared in the comment section of the videos. Since only two group members had active accounts, it was decided that one of them would post ‘treatment words’ and the other one ‘control words’. The other six accounts were created for the purpose of this experiment.
   <br/>
- </div> 
+</div> 
 
 
 
