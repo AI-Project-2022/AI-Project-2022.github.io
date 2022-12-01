@@ -16,7 +16,7 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction 
+## 1 Introduction 100
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
@@ -70,14 +70,13 @@ We designed an experiment in order to analyze if TikTok’s automated content mo
 <div align="justify"> 
 The first decision involved the setup of the different accounts that were used in the experiment. We conducted the experiment with eight different accounts, four of them posting word clusters and four of them checking if they appeared in the comment section of the videos. Since only two group members had active accounts, it was decided that one of them would post ‘treatment words’ and the other one ‘control words’. The other six accounts were created for the purpose of this experiment.
   <br/>
+  <br/>
 </div> 
 
 
-<div align="center">
   **Table 1: Accounts**
 <br/>
-
-Account type | Account history | Role
+**Account type** | **Account history** | **Role**
 :---|:---:|---:
 Treatment account 1 | Yes | Post treatment words 
 Treatment account 2 | No | Post treatment words 
@@ -87,9 +86,8 @@ Check account 1 | No | Check if words appear
 Check account 2 | No | Check if words appear 
 Check account 3 | No | Check if words appear 
 Check account 4 | No | Check if words appear 
-</div> 
-
 *Table 1 - Description of accounts used for the experiment.*
+<br/>
 <br/>
 
   
@@ -100,11 +98,7 @@ It should be noted that the two accounts that had previous history differ in som
   <br/>
 </div> 
 
-First Header | Second Header | Third Header
-:----------- | :-----------: | -----------:
-Left         | Center        | Right
-Left         | Center        | Right
-Left         | Center        | Right
+
   
 <ins>Word clusters</ins>
 <div align="justify"> 
@@ -112,14 +106,14 @@ We decided to test four main word clusters related to the LGBTQ+ community, clim
   <br/>
   <br/>
 Following the original setup of the German experiment, in which words were posted in German, for this experiment – carried out in France – all words were translated into French by a fluent-speaking member of the group. In addition, words were embedded in sentences with neutral language that did not violate TikTok’s community guidelines. The same sentences were used for each word cluster and were adjusted to their content in order to make sense and to be grammatically correct. Table 2 shows the words chosen for each word cluster as well as the sentence in which they were embedded. 
+  <br/>
+  <br/>
 </div> 
  
 
 </b>
   **Table 2: Treatment words**
 </b>
-<div align="center">  
-
 **Word cluster** | **Treatment word** | **Sentence** 
 ---|---|---
 LGBT | LGBT | Je soutiens la communauté LGBT 
@@ -151,32 +145,36 @@ China | Hongkong | Nous devons parler de Hongkong
 China | Tiananmen | Nous devons parler de Tiananmen 
 China | Droits de l’homme | Nous devons parler des droits de l’homme 
 China | Travail forcé | Nous devons parler de travail forcé    
-  x^
-</div> 
-  *Table 2 - Description of treatment words.*
-  
+*Table 2 - Description of treatment words.*
+<br/>
+<br/>  
 
 
-<p align="justify"> 
+<div align="justify"> 
 In addition, the sentence “J'aime ta vidéo” (I like your video) was used as a control group of words, in order to verify that the comments on each video were not restricted by the owner. This sentence, referred to as ‘control words’ in the remainder of the report, also provides a benchmark to compare the experimental results in relation to the ‘treatment words’.
-  
+  <br/>
+  <br/>
+</div> 
+
 <ins>Choice of videos</ins>  
-<p align="justify"> 
+<div align="justify"> 
 Another decision that was made was the choice of videos in which the ‘treatment words’ and the ‘control words’ would be posted. The first characteristic of the chosen videos was that they were completely unrelated to the cluster of words being tested. This decision stemmed from the fact that the aim of the research was to test TikTok’s automated moderation system with regards to words in the comment section and not the video content itself. Moreover, the decision aimed to avoid any interaction between the video content and potential comment removal. 
-<p align="justify">  
+  <br/>
+  <br/>
 Some videos were selected based on thematic searches, while most of them were taken from the ForYou-Pages of the accounts in order to interact with organic content that TikTok thinks is relevant for the employed accounts. In addition, in order to avoid any kind of interference with the experiment, the video links were not sent through any direct communication between the group members (i.e. a WhatsApp group). Instead, they were written in a Google Drive sheet and the link did not contain the referral part of the URL from which the video was obtained. Figure 1 shows the difference between a link containing a referral identifier and the link for the same video not containing the identifier. </p> 
+  <br/>
+  <br/>
+</div> 
 
-<div align="center"> 
-  
-  <img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205106867-118ebb85-d673-4a58-b4ce-a0266cf36f77.png">
+<img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205179588-92a53b6d-00d1-42a1-b212-40cfc1231d27.png">
+*Figure 1 - Difference between links with and without referral identifier.*
+  <br/>
+  <br/>
 
-  
-  *Figure 1 - Difference between links with and without referral identifier.*
-  </div>
-
-<p align="justify"> 
+<div align="justify"> 
 The second characteristic of the chosen videos is that they had less than 50 comments. This decision had to be made, since comments do not appear chronologically and the checking process of whether the posted comments appeared or not occurred manually. All the characteristics of each video were recorded, including the user name of the video’s owner and the number of followers, the video’s URL, number of views, likes, comments and shares. 
 
+  bis hier
   
 <ins>The posting process</ins>
 <p align="justify"> 
