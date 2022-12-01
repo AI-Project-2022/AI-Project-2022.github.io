@@ -16,7 +16,7 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction
+## 1 Introduction 100
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
@@ -113,9 +113,8 @@ Following the original setup of the German experiment, in which words were poste
 </div> 
  
 
-</b>
   **Table 2: Treatment words**
-</b>
+<br/>
 
 **Word cluster** | **Treatment word** | **Sentence** 
 ---|---|---
@@ -148,6 +147,7 @@ China | Hongkong | Nous devons parler de Hongkong
 China | Tiananmen | Nous devons parler de Tiananmen 
 China | Droits de l’homme | Nous devons parler des droits de l’homme 
 China | Travail forcé | Nous devons parler de travail forcé    
+
 *Table 2 - Description of treatment words.*
 <br/>
 <br/>  
@@ -298,6 +298,7 @@ Hern, A. (2019, September 29).Revealed: How TikTok Censors Videos That Do Not Pl
 Hern, A. (2022, October 25). How TikTok's algorithm made it a success: “It pushes the boundaries” *The Guardian*. https://www.theguardian.com/technology/2022/oct/23/tiktok-rise-algorithm-popularity. 
   
 Kemp, S. (2022, April 21). Digital 2022 April Global Statshot Report. DataReportal. https://datareportal.com/reports/digital-2022-april-global-statshot
+
 King, G., Pan, J., & Roberts, M. E. (2013). How censorship in China allows government criticism but silences collective expression. *American political science Review*, 107(2), 326-343.
   
 King, G., Pan, J., & Roberts, M. E. (2017). How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *American political science review*, 111(3), 484-501.
