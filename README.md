@@ -76,6 +76,7 @@ The first decision involved the setup of the different accounts that were used i
 <div align="center">
 **Table 1: Accounts**
 <br/>
+
 **Account type** | **Account history** | **Role** 
 :---|:---:|---:
 Treatment account 1 | Yes | Post treatment words 
@@ -87,6 +88,7 @@ Check account 2 | No | Check if words appear
 Check account 3 | No | Check if words appear 
 Check account 4 | No | Check if words appear 
 <br/>
+
 *Table 1 - Description of accounts used for the experiment.*
 </div> 
 <br/>
@@ -112,37 +114,39 @@ Following the original setup of the German experiment, in which words were poste
   **Table 2: Treatment words**
 </b>
 <div align="center">  
-| **Word cluster** | **Treatment word** | **Sentence** |
-|---|---|---|
-| LGBT | LGBT | Je soutiens la communauté LGBT |
-| LGBT | Homosexuelle | Je soutiens la communauté homosexuelle |
-| LGBT | Gay | Je soutiens la communauté gay |
-| LGBT | Lesbienne | Je soutiens la communauté lesbienne |
-| LGBT | Bisexuelle | Je soutiens la communauté bisexuelle |
-| LGBT | Trans | Je soutiens la communauté trans |
-| LGBT | Pollution | La pollution est importante |
-| Climate Change | Crise climatique | La crise climatique est importante |
-| Climate Change | Changement climatique | Le changement climatique est important |
-| Climate Change | Émissions | Les émissions sont importantes |
-| Climate Change | Protection environnementale | La protection de l'environnement est importante |
-| Climate Change | Réchauffement global | Le réchauffement climatique est important |
-| Climate Change | Crise énergétique | La crise énergétique est importante |
-| Russo-Ukrainian War | Opération spéciale | Nous devons parler d'opérations spéciales en Ukraine |
-| Russo-Ukrainian War | Avions de chasse | Nous devons parler des avions de chasse en Ukraine |
-| Russo-Ukrainian War | Char de bataille | Nous devons parler des chars de bataille en Ukraine |
-| Russo-Ukrainian War | Droit international | Nous devons parler du droit international en Ukraine |
-| Russo-Ukrainian War | Troupes | Nous devons parler des troupes en Ukraine |
-| Russo-Ukrainian War | Crimes de guerre | Nous devons parler des crimes de guerre en Ukraine |
-| Russo-Ukrainian War | Invasion russe | Nous devons parler de l’Invasion russe en Ukraine |
-| Russo-Ukrainian War | Boutcha | Nous devons parler de Boutcha en Ukraine |
-| China | Ouïghours | Nous devons parler des Ouïghours |
-| China | Xinjiang | Nous devons parler de Xinjiang |
-| China | Taïwan | Nous devons parler de Taïwan |
-| China | Tibet | Nous devons parler du Tibet |
-| China | Hongkong | Nous devons parler de Hongkong |
-| China | Tiananmen | Nous devons parler de Tiananmen |
-| China | Droits de l’homme | Nous devons parler des droits de l’homme |
-| China | Travail forcé | Nous devons parler de travail forcé    |
+
+**Word cluster** | **Treatment word** | **Sentence** 
+---|---|---
+LGBT | LGBT | Je soutiens la communauté LGBT 
+LGBT | Homosexuelle | Je soutiens la communauté homosexuelle 
+LGBT | Gay | Je soutiens la communauté gay 
+LGBT | Lesbienne | Je soutiens la communauté lesbienne 
+LGBT | Bisexuelle | Je soutiens la communauté bisexuelle 
+LGBT | Trans | Je soutiens la communauté trans 
+LGBT | Pollution | La pollution est importante 
+Climate Change | Crise climatique | La crise climatique est importante 
+Climate Change | Changement climatique | Le changement climatique est important 
+Climate Change | Émissions | Les émissions sont importantes 
+Climate Change | Protection environnementale | La protection de l'environnement est importante 
+Climate Change | Réchauffement global | Le réchauffement climatique est important 
+Climate Change | Crise énergétique | La crise énergétique est importante 
+Russo-Ukrainian War | Opération spéciale | Nous devons parler d'opérations spéciales en Ukraine 
+Russo-Ukrainian War | Avions de chasse | Nous devons parler des avions de chasse en Ukraine
+Russo-Ukrainian War | Char de bataille | Nous devons parler des chars de bataille en Ukraine 
+Russo-Ukrainian War | Droit international | Nous devons parler du droit international en Ukraine 
+Russo-Ukrainian War | Troupes | Nous devons parler des troupes en Ukraine 
+Russo-Ukrainian War | Crimes de guerre | Nous devons parler des crimes de guerre en Ukraine 
+Russo-Ukrainian War | Invasion russe | Nous devons parler de l’Invasion russe en Ukraine 
+Russo-Ukrainian War | Boutcha | Nous devons parler de Boutcha en Ukraine 
+China | Ouïghours | Nous devons parler des Ouïghours 
+China | Xinjiang | Nous devons parler de Xinjiang 
+China | Taïwan | Nous devons parler de Taïwan 
+China | Tibet | Nous devons parler du Tibet 
+China | Hongkong | Nous devons parler de Hongkong 
+China | Tiananmen | Nous devons parler de Tiananmen 
+China | Droits de l’homme | Nous devons parler des droits de l’homme 
+China | Travail forcé | Nous devons parler de travail forcé    
+  x^
 </div> 
   *Table 2 - Description of treatment words.*
   
