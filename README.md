@@ -73,7 +73,6 @@ The first decision involved the setup of the different accounts that were used i
   <br/>
 </div> 
 
-<align="center"> 
 
   **Table 1: Accounts**
 <br/>
@@ -93,7 +92,6 @@ Check account 4 | No | Check if words appear
 <br/>
 <br/>
 
-</align="center"> 
 
   
 
