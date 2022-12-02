@@ -212,8 +212,9 @@ Our experiment involved 29 conveniently selected videos from TikTok. The average
   <br/>
 </div> 
 
-**Figure 2 - Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.**
+**Figure 2 - Visibility of test comments on TikTok (by theme).**
 ![figure 2](https://user-images.githubusercontent.com/115728895/205180328-a64d1ea2-4155-41a0-840c-7cc8c174efdf.svg)
+*Note: one box represents one test comment.*
   <br/>
 
 <div align="justify"> 
