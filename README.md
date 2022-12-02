@@ -17,7 +17,7 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction
+## 1 Introduction 1
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
@@ -263,7 +263,7 @@ This experiment has provided evidence of illegitimate shadowbanning practices on
 Thus, further research should target the role account history plays on comment visibility and control for automated word filters. Moreover, more clarification is needed on the platform’s definition and action against spamming behavior. The role of video characteristics (related/unrelated, viral/non viral etc.) could also potentially influence the moderation of politically-sensitive word clusters. Hence, this experiment would benefit from being replicated in other geographical contexts with a larger sample of accounts and videos. Overall, the existing body of literature on digital content moderation might benefit from empirically studying the phenomenon of shadowbanning on TikTok. 
   <br/>
   <br/>
-To sum up, our experiment has shown that TikTok’s content moderation system entails a non-transparent dimension, potentially even a bias against new user accounts or certain words and/or word clusters. As it remains crucial to systematically assess the platform’s impact on political discourse and overall freedom of speech abroad, more transparency from TikTok is needed in order to mitigate risks such as content censorship<ahref="https://raw.githubusercontent.com/AI-Project-2022/AI-Project-2022.github.io/main/meme2.jpeg" target="_top">.</a>
+To sum up, our experiment has shown that TikTok’s content moderation system entails a non-transparent dimension, potentially even a bias against new user accounts or certain words and/or word clusters. As it remains crucial to systematically assess the platform’s impact on political discourse and overall freedom of speech abroad, more transparency from TikTok is needed in order to mitigate risks such as content censorship<a href="https://raw.githubusercontent.com/AI-Project-2022/AI-Project-2022.github.io/main/meme2.jpeg" target="_top">.</a>
   <br/>
   <br/>
 </div> 
