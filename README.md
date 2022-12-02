@@ -1,4 +1,5 @@
-# Automated censorship through TikTok’s content moderation system: an analysis of word filters in France
+# Automated censorship through TikTok’s content moderation system
+## *An analysis of word filters in France*
 
 ## Table of Contents
 [1 Introduction](#introduction)
@@ -16,7 +17,7 @@
 [7 Bibliography](#bibliography)
 
 <a name="introduction"></a>
-## 1 Introduction 100
+## 1 Introduction
 
 <div align="justify"> 
 The Chinese government has long kept tight reins on both traditional and new media to avoid potential subversion of its authority. Its tactics often entail strict media controls using monitoring systems and firewalls, shuttering publications and websites, or jailing dissident journalists, bloggers and activists (Xu & Albert, 2017). Even more than simply deleting unfavorable content, the primary domestic political goal is to distract from sensitive debates and hinder collective expression (King et al., 2013). With these efforts, the government tries to prevent a political momentum or potential spill-over effects from international movements abroad (King et al., 2017).
@@ -74,7 +75,6 @@ The first decision involved the setup of the different accounts that were used i
 </div> 
 
 
-<p align="center">
 
   **Table 1: Accounts**
 <br/>
@@ -94,7 +94,6 @@ Check account 4 | No | Check if words appear
 <br/>
 <br/>
 
-</p>
 
   
 
@@ -173,10 +172,11 @@ Some videos were selected based on thematic searches, while most of them were ta
   <br/>
 </div> 
 
-<img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205179588-92a53b6d-00d1-42a1-b212-40cfc1231d27.png">
-  <br/>
 *Figure 1 - Difference between links with and without referral identifier.*
   <br/>
+<img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205179588-92a53b6d-00d1-42a1-b212-40cfc1231d27.png">
+  <br/>
+
   <br/>
 
 <div align="justify"> 
