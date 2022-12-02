@@ -176,9 +176,7 @@ Some videos were selected based on thematic searches, while most of them were ta
   <br/>
 <img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205179588-92a53b6d-00d1-42a1-b212-40cfc1231d27.png">
   <br/>
-
-  <br/>
-
+ 
 <div align="justify"> 
 The second characteristic of the chosen videos is that they had less than 50 comments. This decision had to be made, since comments do not appear chronologically and the checking process of whether the posted comments appeared or not occurred manually. All the characteristics of each video were recorded, including the user name of the video’s owner and the number of followers, the video’s URL, number of views, likes, comments and shares. 
   <br/>
@@ -218,7 +216,6 @@ Our experiment involved 29 conveniently selected videos from TikTok. The average
   <br/>
 *Figure 2 - Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.*
   <br/>
-  <br/> 
 
 <div align="justify"> 
 Figure 2 presents the results of the experiment itself. In the treatment group on the LGBTQ+ topic, no test comment was publicly visible. In contrast, in the control group, 6 of the 12 (50%) tested comments were publicly visible. Likewise, on the topic of Climate Change, no comments were visible in the treatment group, whereas 7 out of 14 (50%) were visible in the control group. In the Russo-Ukrainian War topic, again, no comments within the treatment group were publicly visible. Contrary to that, in the control group, 9 out of 16 (56%) comments were publicly displayed. Lastly, on issues related to China, none of the test comments from the treatment group were visible while 8 out of 16 comments from the control group were not. 
