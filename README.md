@@ -172,7 +172,7 @@ Some videos were selected based on thematic searches, while most of them were ta
   <br/>
 </div> 
 
-*Figure 1 - Difference between links with and without referral identifier.*
+**Figure 1 - Difference between links with and without referral identifier.**
   <br/>
 <img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205179588-92a53b6d-00d1-42a1-b212-40cfc1231d27.png">
   <br/>
@@ -212,9 +212,8 @@ Our experiment involved 29 conveniently selected videos from TikTok. The average
   <br/>
 </div> 
 
+**Figure 2 - Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.**
 ![figure 2](https://user-images.githubusercontent.com/115728895/205180328-a64d1ea2-4155-41a0-840c-7cc8c174efdf.svg)
-  <br/>
-*Figure 2 - Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.*
   <br/>
 
 <div align="justify"> 
